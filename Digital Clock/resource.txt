@@ -1,0 +1,2 @@
+https://www.youtube.com/watch?v=1eMECW8eJr8
+https://www.geeksforgeeks.org/python-create-a-digital-clock-using-tkinter/
