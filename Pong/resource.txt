@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=2zSVlS6i6hU&list=PLlEgNdBJEO-kXk2PyBxhSmo84hsO3HAz2&index=10
+https://docs.python.org/3/library/turtle.html#:~:text=Turtle%20graphics%20is%20a%20popular%20way%20for%20introducing%20programming%20to%20kids.&text=The%20turtle%20module%20is%20an,)%20100%25%20compatible%20with%20it.
+https://docs.python.org/3/library/os.html
